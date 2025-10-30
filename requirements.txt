@@ -1,0 +1,13 @@
+python-dotenv
+mysql-connector-python
+pandas
+ipykernel
+pinecone
+langchain-google-genai
+ipywidgets
+langchain-pinecone
+streamlit
+sentence-transformers
+langchain-community
+langchain
+langchain-core
